@@ -1,0 +1,50 @@
+
+Group A  -  UPI payment app
+--------
+Abhinab
+Akshata
+Anil
+Anjana
+Ashwin
+
+
+Group B - Online Food Delivery App
+------
+Ashwini
+Bharath
+Brunda
+Sai Bharadwaj
+Deepak
+
+
+Group C - Exam Management System
+-------
+Dhamotharan
+Divya
+Jaya
+Jeswanth
+Karthik
+
+Group D - One Stop Farmer Solution
+--------
+Krishna
+Nageshkumar
+Neeraj
+Nigil
+Jahnavi
+
+Group E - Video Meeting app
+-------
+Priyadarshini
+Rishav
+Sachin
+Shahbazul
+Sinchana
+
+Group F - Online Cab booking service
+-------
+Sirisha
+Sumit
+Suvetha
+Umme Hanee
+
