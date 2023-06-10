@@ -1,0 +1,7 @@
+com\test\springbatchdemo\batch\UserProcessor.class
+com\test\springbatchdemo\config\SpringBatchConfig.class
+com\test\springbatchdemo\model\CompanyUser.class
+com\test\springbatchdemo\repository\UserRepository.class
+com\test\springbatchdemo\SpringBatchDemoApplication.class
+com\test\springbatchdemo\controller\UserBatchController.class
+com\test\springbatchdemo\batch\UserItemWriter.class
